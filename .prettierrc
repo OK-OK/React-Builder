@@ -4,6 +4,5 @@
   "singleQuote": true,
   "bracketSpacing": true,
   "trailingComma": "all",
-  "eslintIntegration": true,
   "arrowParens": "avoid"
 }

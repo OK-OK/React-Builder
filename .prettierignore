@@ -1,0 +1,7 @@
+.yarn
+.next
+.vscode
+public
+dist
+node_modules
+*.html
